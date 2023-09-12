@@ -1,0 +1,748 @@
+,country_of_origin,variety,aroma,aftertaste,acidity,body,balance,moisture,specialty
+1178,Colombia,Caturra,7.42,6.75,7.25,7.42,7.25,0.0,No
+1045,Costa Rica,Caturra,7.33,7.25,7.25,7.17,7.17,0.11,Yes
+272,Mexico,Typica,7.5,7.58,7.83,7.75,7.75,0.11,Yes
+277,Guatemala,Bourbon,7.75,7.5,7.75,7.83,7.58,0.11,Yes
+571,Colombia,Caturra,7.83,7.5,7.42,7.5,7.5,0.11,Yes
+248,Colombia,Caturra,7.58,7.75,7.92,7.75,7.92,0.12,Yes
+410,Guatemala,Bourbon,7.83,7.17,7.67,7.67,7.67,0.11,Yes
+1241,Mexico,Other,7.25,7.0,7.0,7.25,7.08,0.12,No
+602,Colombia,Caturra,7.5,7.42,7.67,7.5,7.58,0.0,Yes
+788,Mexico,Typica,7.5,7.42,7.5,7.25,7.5,0.13,Yes
+509,Other,Other,7.67,7.67,7.83,7.75,7.83,0.0,Yes
+505,Guatemala,Bourbon,7.83,7.25,7.67,7.75,7.5,0.11,Yes
+634,Taiwan,Typica,7.67,7.5,7.42,7.58,7.5,0.11,Yes
+826,Mexico,Bourbon,7.58,7.25,7.58,7.5,7.25,0.12,Yes
+815,Guatemala,Bourbon,7.58,7.25,7.58,7.58,7.5,0.1,Yes
+850,Colombia,Caturra,7.5,7.0,7.42,7.5,7.58,0.0,Yes
+514,Colombia,Caturra,7.83,7.58,7.33,7.5,7.67,0.0,Yes
+795,Honduras,Caturra,7.5,7.25,7.33,7.42,7.5,0.1,Yes
+306,Colombia,Caturra,7.58,7.75,7.67,7.67,7.67,0.0,Yes
+703,Colombia,Caturra,7.33,7.17,7.58,7.42,7.58,0.0,Yes
+449,Other,Bourbon,7.5,7.33,7.67,8.0,7.67,0.0,Yes
+499,Other,Bourbon,7.67,7.42,7.42,7.83,7.5,0.12,Yes
+1217,Taiwan,Typica,6.83,7.17,7.25,7.0,6.92,0.1,No
+463,Guatemala,Bourbon,7.67,7.33,7.67,7.5,7.67,0.11,Yes
+969,Guatemala,Caturra,7.5,7.5,7.58,7.0,7.25,0.11,Yes
+689,Mexico,Bourbon,7.5,7.5,7.92,7.42,7.67,0.12,Yes
+761,Brazil,Yellow Bourbon,6.92,7.42,7.33,7.83,7.5,0.0,Yes
+216,Colombia,Caturra,8.0,7.5,7.67,8.0,7.83,0.0,Yes
+503,Guatemala,Catuai,7.67,7.33,7.92,7.42,7.5,0.11,Yes
+539,Other,Other,7.58,7.67,7.58,7.5,7.5,0.11,Yes
+709,Costa Rica,Caturra,7.75,7.25,7.25,7.42,7.67,0.1,Yes
+1123,Other,Other,7.17,7.0,7.42,7.17,7.0,0.0,No
+141,Other,Other,7.92,7.75,7.92,7.67,7.75,0.11,Yes
+386,Colombia,Caturra,7.58,7.25,7.75,7.75,8.58,0.12,Yes
+863,Mexico,Bourbon,7.5,7.33,7.42,7.25,7.25,0.13,Yes
+318,Brazil,Bourbon,7.58,7.58,7.75,7.58,7.58,0.11,Yes
+665,Guatemala,Bourbon,7.83,7.17,7.33,7.5,7.67,0.11,Yes
+619,Other,Other,7.67,7.33,7.67,7.5,7.5,0.12,Yes
+1253,Brazil,Bourbon,7.5,7.42,7.58,7.58,6.92,0.0,No
+1309,Guatemala,Catuai,7.5,6.67,7.67,7.33,6.67,0.1,No
+682,"Tanzania, United Republic Of",Other,7.67,7.42,7.42,7.67,7.42,0.13,Yes
+893,Mexico,Caturra,7.75,7.25,7.17,7.58,7.33,0.11,Yes
+65,Other,Caturra,8.0,7.83,7.83,7.67,8.58,0.09,Yes
+41,Brazil,Yellow Bourbon,8.17,7.92,7.75,8.33,8.0,0.08,Yes
+230,Other,Other,7.83,7.5,7.83,7.83,7.75,0.11,Yes
+447,Other,Other,7.5,7.33,7.67,7.67,7.67,0.11,Yes
+213,Guatemala,Caturra,7.75,7.58,8.0,7.67,7.83,0.11,Yes
+276,Costa Rica,Caturra,7.67,7.75,7.67,7.5,7.75,0.0,Yes
+818,Brazil,Catuai,7.42,7.33,7.5,7.5,7.33,0.11,Yes
+153,Colombia,Caturra,7.67,7.83,8.0,7.58,7.92,0.0,Yes
+151,Colombia,Caturra,7.75,7.83,7.75,7.58,8.0,0.0,Yes
+740,Other,Other,7.58,7.33,7.42,7.58,7.5,0.13,Yes
+242,Honduras,Caturra,7.42,7.75,7.92,7.75,7.58,0.1,Yes
+222,Colombia,Other,7.67,7.67,7.42,7.83,8.58,0.12,Yes
+779,Brazil,Bourbon,7.42,7.42,7.5,7.42,7.25,0.11,Yes
+695,Mexico,Caturra,7.75,7.25,7.58,7.58,7.33,0.13,Yes
+1235,Taiwan,Yellow Bourbon,7.5,7.33,7.17,7.5,7.5,0.0,No
+354,Colombia,Caturra,7.75,7.58,7.5,7.75,7.75,0.0,Yes
+1206,Other,Caturra,7.17,6.92,7.0,7.0,7.0,0.1,No
+970,Mexico,Typica,7.42,7.33,7.33,7.5,7.42,0.12,Yes
+496,Brazil,Bourbon,7.58,7.5,7.75,7.67,7.5,0.0,Yes
+964,Other,Catuai,7.08,7.33,7.17,7.42,7.25,0.1,Yes
+706,Brazil,Catuai,7.33,7.5,7.33,7.5,7.5,0.11,Yes
+1105,Other,Other,7.42,7.25,7.58,7.42,7.33,0.0,Yes
+593,Other,Other,7.75,7.42,7.5,7.33,7.5,0.12,Yes
+1119,Taiwan,Typica,7.25,7.25,7.08,7.17,7.08,0.11,Yes
+873,Honduras,Catuai,7.58,7.33,7.33,7.42,7.25,0.11,Yes
+607,Brazil,Bourbon,7.5,7.25,7.75,7.58,7.5,0.0,Yes
+207,Mexico,Bourbon,7.83,7.75,7.67,7.83,7.58,0.12,Yes
+547,Guatemala,Caturra,7.67,7.42,7.5,7.33,7.5,0.1,Yes
+691,Colombia,Caturra,7.67,7.33,7.5,7.58,7.5,0.11,Yes
+1081,Other,Bourbon,7.33,7.08,7.08,7.33,7.17,0.0,Yes
+780,Brazil,Yellow Bourbon,7.25,7.58,7.58,7.25,7.92,0.0,Yes
+515,Colombia,Caturra,7.33,7.75,7.42,7.75,7.58,0.11,Yes
+821,"Tanzania, United Republic Of",Other,7.33,7.33,7.42,7.5,7.58,0.12,Yes
+1137,Mexico,Other,7.17,7.08,7.58,7.33,7.08,0.11,No
+288,Guatemala,Bourbon,7.5,7.5,7.83,7.83,7.67,0.11,Yes
+1238,Guatemala,Other,7.42,6.83,7.33,7.0,6.92,0.1,No
+944,Guatemala,Bourbon,7.42,7.25,7.42,7.42,7.5,0.12,Yes
+626,Mexico,Other,7.58,7.42,7.58,7.42,7.5,0.11,Yes
+676,Guatemala,Bourbon,7.67,7.25,7.67,7.42,7.33,0.12,Yes
+429,Mexico,Bourbon,7.58,7.5,7.5,7.58,7.58,0.12,Yes
+976,Other,Caturra,6.83,7.42,7.17,7.5,7.42,0.12,Yes
+1211,Mexico,Bourbon,7.67,6.83,7.33,7.58,7.17,0.12,No
+378,Costa Rica,Caturra,7.58,7.42,7.92,7.5,7.67,0.09,Yes
+663,Guatemala,Bourbon,7.83,7.33,7.67,7.42,7.5,0.12,Yes
+1173,Mexico,Typica,7.25,7.0,7.25,7.17,7.17,0.12,No
+402,"Tanzania, United Republic Of",Other,7.75,7.67,7.58,7.58,7.58,0.12,Yes
+508,Other,Other,7.83,7.5,7.5,7.58,7.5,0.12,Yes
+1034,Mexico,Bourbon,7.5,7.33,7.25,7.17,7.17,0.13,Yes
+916,Costa Rica,Caturra,7.83,7.08,7.08,7.33,7.5,0.12,Yes
+653,Brazil,Bourbon,7.5,7.5,7.5,7.58,7.5,0.11,Yes
+458,Honduras,Catuai,7.5,7.5,7.67,7.67,7.67,0.1,Yes
+233,Taiwan,Typica,7.58,7.67,7.67,7.75,7.83,0.1,Yes
+1290,Mexico,Typica,7.67,7.17,7.58,7.33,7.33,0.12,No
+1021,Taiwan,Typica,7.92,7.33,7.08,7.08,7.08,0.09,Yes
+482,Taiwan,Typica,7.83,7.5,7.83,7.67,7.25,0.0,Yes
+347,Colombia,Caturra,7.67,7.58,7.67,7.75,7.58,0.11,Yes
+911,Other,Caturra,7.5,7.33,7.33,7.25,7.33,0.11,Yes
+1069,Guatemala,Caturra,7.33,7.08,7.17,7.25,7.17,0.1,Yes
+1210,Mexico,Typica,7.25,7.17,7.25,7.08,7.0,0.14,No
+733,Colombia,Caturra,7.83,7.33,7.25,7.58,7.42,0.0,Yes
+620,Taiwan,Typica,7.67,7.5,7.5,7.5,7.5,0.11,Yes
+951,Honduras,Caturra,7.5,7.0,7.17,7.5,7.33,0.11,Yes
+358,Other,Other,7.25,7.58,7.92,7.83,7.58,0.13,Yes
+773,Guatemala,Caturra,7.25,7.0,7.75,8.17,7.75,0.12,Yes
+1162,Mexico,Caturra,7.33,7.0,6.75,7.08,7.0,0.13,No
+806,Taiwan,Typica,7.42,7.33,7.42,8.0,7.5,0.12,Yes
+837,Guatemala,Bourbon,7.58,7.33,7.42,7.58,7.25,0.1,Yes
+290,Mexico,Other,7.67,7.5,7.75,7.75,7.75,0.11,Yes
+1068,Taiwan,Other,7.17,7.17,7.42,7.17,7.25,0.0,Yes
+513,Colombia,Caturra,7.75,7.33,7.5,7.58,7.17,0.11,Yes
+355,Guatemala,Bourbon,7.67,7.5,7.83,7.58,7.58,0.1,Yes
+55,Other,Other,8.0,7.92,8.08,7.83,8.0,0.08,Yes
+580,Guatemala,Bourbon,7.5,7.17,7.67,7.67,7.58,0.11,Yes
+448,Other,Other,7.67,7.5,7.67,7.42,7.58,0.1,Yes
+1028,Mexico,Typica,7.58,7.08,7.5,7.17,7.25,0.13,Yes
+331,Mexico,Typica,7.67,7.5,7.33,7.83,8.25,0.12,Yes
+918,Guatemala,Other,7.5,7.17,7.58,7.25,7.42,0.12,Yes
+696,Mexico,Typica,7.5,7.33,7.5,7.5,7.5,0.11,Yes
+484,Brazil,Bourbon,7.58,7.67,7.42,7.42,7.5,0.0,Yes
+533,Brazil,Bourbon,7.67,7.5,7.58,7.58,7.5,0.0,Yes
+385,"Tanzania, United Republic Of",Bourbon,7.75,7.58,7.67,7.58,7.58,0.13,Yes
+199,Colombia,Other,7.83,7.83,7.58,7.67,7.75,0.12,Yes
+621,Other,Caturra,7.42,7.5,7.67,7.58,7.5,0.11,Yes
+1050,Other,Other,7.58,7.0,7.67,7.5,7.5,0.13,Yes
+1176,Mexico,Typica,7.0,6.83,7.42,7.33,7.17,0.13,No
+766,"Tanzania, United Republic Of",Other,7.75,7.42,7.58,7.33,7.42,0.12,Yes
+317,Other,Caturra,7.67,7.67,7.67,7.83,7.58,0.1,Yes
+1288,Mexico,Typica,7.0,6.67,6.83,7.08,6.83,0.14,No
+1229,Mexico,Typica,7.25,7.0,7.5,7.33,7.42,0.13,No
+1175,Guatemala,Other,7.25,6.83,7.0,7.0,7.17,0.1,No
+1017,Other,Other,7.17,7.0,7.58,7.33,7.0,0.0,Yes
+722,Guatemala,Bourbon,7.5,7.58,7.5,7.5,7.58,0.12,Yes
+249,Colombia,Caturra,7.67,7.5,7.5,7.67,7.67,0.12,Yes
+1299,Mexico,Other,6.92,6.92,6.92,7.17,7.0,0.12,No
+647,Colombia,Caturra,7.75,7.75,7.25,7.33,7.58,0.11,Yes
+855,Mexico,Typica,7.33,7.25,7.5,7.5,7.5,0.12,Yes
+244,Colombia,Other,7.67,7.83,7.58,7.58,7.83,0.11,Yes
+745,Mexico,Bourbon,7.58,7.5,7.17,7.42,7.42,0.16,Yes
+1144,Guatemala,Bourbon,7.5,7.25,7.58,7.33,7.42,0.1,No
+882,Honduras,Caturra,7.5,7.5,7.5,7.17,7.17,0.1,Yes
+403,Mexico,Other,7.67,7.58,7.67,7.5,7.58,0.12,Yes
+731,Mexico,Typica,8.0,7.33,7.33,7.08,7.67,0.11,Yes
+616,"Tanzania, United Republic Of",Bourbon,7.58,7.5,7.58,7.33,7.58,0.12,Yes
+836,Other,Other,7.75,7.58,7.75,7.92,7.83,0.11,Yes
+799,"Tanzania, United Republic Of",Other,7.42,7.33,7.58,7.33,7.42,0.12,Yes
+683,Brazil,Yellow Bourbon,7.17,7.33,7.5,7.75,7.42,0.0,Yes
+102,Brazil,Other,8.0,7.83,7.83,7.67,7.67,0.12,Yes
+586,Other,Bourbon,7.67,7.17,7.33,7.58,7.67,0.0,Yes
+680,Other,Other,7.67,7.42,7.5,7.42,7.42,0.1,Yes
+291,Brazil,Yellow Bourbon,7.83,7.58,7.67,7.5,7.58,0.12,Yes
+137,Other,Other,7.75,7.83,8.0,7.58,7.75,0.11,Yes
+127,Other,Other,7.75,7.75,7.42,8.08,7.83,0.12,Yes
+979,Other,Caturra,7.58,7.33,7.08,7.33,7.33,0.12,Yes
+966,Guatemala,Other,7.33,7.17,7.25,7.42,7.33,0.09,Yes
+743,Mexico,Other,7.58,7.42,7.42,7.42,7.42,0.12,Yes
+274,Colombia,Caturra,7.92,7.5,7.83,7.58,7.67,0.0,Yes
+1174,Guatemala,Bourbon,7.08,7.25,7.58,7.33,7.42,0.1,No
+827,Mexico,Typica,7.5,7.25,7.25,7.5,7.5,0.13,Yes
+1244,Mexico,Typica,7.42,7.0,7.0,7.25,7.08,0.11,No
+692,Mexico,Typica,7.5,7.42,7.67,7.42,7.58,0.12,Yes
+1281,Mexico,Typica,7.08,6.58,7.0,7.0,6.75,0.17,No
+751,Mexico,Typica,7.42,7.42,7.58,7.42,7.5,0.1,Yes
+522,Colombia,Caturra,7.75,7.5,7.67,7.83,7.75,0.0,Yes
+338,Other,Other,7.67,7.58,7.58,7.67,7.75,0.1,Yes
+23,Other,Other,8.25,8.17,8.17,7.83,8.17,0.0,Yes
+220,Other,Other,7.5,7.58,7.83,7.75,7.83,0.1,Yes
+562,Other,Other,7.33,7.67,7.83,7.33,7.67,0.0,Yes
+1171,Colombia,Caturra,7.83,7.42,7.42,7.67,7.5,0.0,No
+425,Taiwan,Typica,7.92,7.75,7.58,7.5,7.33,0.1,Yes
+1205,Mexico,Typica,7.5,6.92,7.08,6.92,6.75,0.16,No
+618,Mexico,Typica,7.67,7.42,7.5,7.42,7.5,0.11,Yes
+269,Taiwan,Typica,8.0,7.92,7.92,7.67,7.33,0.06,Yes
+1051,Guatemala,Bourbon,7.67,6.83,7.17,7.42,7.17,0.11,Yes
+63,Other,Bourbon,7.83,8.0,7.75,7.92,8.17,0.11,Yes
+200,Colombia,Caturra,7.42,7.83,7.75,7.92,7.83,0.12,Yes
+48,Other,Other,7.92,7.83,8.5,7.5,7.92,0.11,Yes
+19,Other,Other,8.17,8.0,8.17,8.08,8.33,0.0,Yes
+782,"Tanzania, United Republic Of",Bourbon,7.42,7.42,7.42,7.5,7.58,0.12,Yes
+1099,Other,Caturra,7.08,7.0,7.25,7.5,7.25,0.11,Yes
+1333,Other,Other,7.92,7.42,7.42,7.42,7.42,0.0,No
+1013,Taiwan,Other,7.33,7.25,7.33,7.33,7.25,0.0,Yes
+887,Mexico,Typica,7.5,7.08,7.58,7.33,7.33,0.12,Yes
+781,Costa Rica,Caturra,7.75,7.42,7.25,7.17,7.42,0.0,Yes
+746,Guatemala,Bourbon,7.5,7.33,7.58,7.67,7.33,0.11,Yes
+1157,Guatemala,Bourbon,7.42,7.25,7.58,7.42,7.33,0.1,No
+1031,Guatemala,Caturra,7.67,7.08,7.33,7.17,7.25,0.11,Yes
+567,Colombia,Other,7.83,7.5,7.58,7.5,7.67,0.0,Yes
+33,Costa Rica,Caturra,8.17,8.0,8.08,7.83,8.0,0.0,Yes
+1158,Other,Bourbon,7.25,7.0,6.83,7.33,7.17,0.0,No
+456,Other,Other,8.0,7.5,7.42,7.33,7.58,0.1,Yes
+510,Guatemala,Bourbon,7.67,7.42,7.83,7.5,7.5,0.1,Yes
+485,Costa Rica,Catuai,7.83,7.5,7.67,7.58,7.67,0.1,Yes
+574,Mexico,Bourbon,7.67,7.42,7.75,7.42,7.42,0.12,Yes
+310,Guatemala,Caturra,7.67,7.58,7.67,7.75,7.75,0.11,Yes
+1107,Honduras,Catuai,7.25,7.0,7.17,7.08,7.08,0.11,Yes
+1041,Honduras,Caturra,7.5,7.0,7.42,7.25,7.17,0.11,Yes
+652,Brazil,Other,7.58,7.33,7.75,7.5,7.5,0.0,Yes
+251,Brazil,Yellow Bourbon,7.58,7.67,7.25,8.0,7.75,0.1,Yes
+369,Mexico,Other,7.75,7.67,7.75,7.33,7.5,0.12,Yes
+1,Other,Other,8.75,8.5,8.58,8.42,8.42,0.12,Yes
+388,Guatemala,Caturra,7.67,7.5,7.83,7.58,7.5,0.1,Yes
+471,Brazil,Other,7.75,7.58,7.5,7.58,7.58,0.12,Yes
+492,Colombia,Caturra,7.33,7.33,7.58,7.25,8.08,0.01,Yes
+1160,Guatemala,Bourbon,7.5,6.83,7.08,7.08,7.17,0.11,No
+241,Other,Other,7.83,7.67,7.75,7.33,7.75,0.11,Yes
+1170,Taiwan,Typica,6.92,7.17,7.0,7.42,7.0,0.0,No
+1121,Mexico,Typica,7.25,7.0,7.17,7.33,7.17,0.14,Yes
+912,Honduras,Caturra,7.5,7.33,7.42,7.17,7.25,0.1,Yes
+417,Costa Rica,Catuai,7.5,7.83,7.5,7.67,7.67,0.11,Yes
+507,Taiwan,Typica,7.92,7.83,7.58,7.33,7.25,0.08,Yes
+195,Guatemala,Caturra,7.75,7.5,8.08,7.58,7.67,0.1,Yes
+1183,Mexico,Bourbon,7.0,6.92,7.17,7.17,7.08,0.13,No
+982,Mexico,Typica,7.42,7.08,7.75,7.42,7.17,0.13,Yes
+1279,Mexico,Typica,7.17,6.83,7.17,7.42,6.67,0.13,No
+166,Mexico,Typica,8.0,7.42,8.08,7.5,7.67,0.12,Yes
+450,Guatemala,Bourbon,7.5,7.5,7.83,7.58,7.5,0.11,Yes
+221,"Tanzania, United Republic Of",Other,7.92,7.75,7.75,7.75,7.58,0.13,Yes
+396,Colombia,Caturra,7.75,7.75,7.58,7.58,7.58,0.0,Yes
+219,Costa Rica,Caturra,7.67,7.67,7.75,7.5,8.0,0.0,Yes
+210,Guatemala,Bourbon,7.75,7.58,7.83,7.67,7.75,0.13,Yes
+728,Mexico,Bourbon,7.67,7.5,7.58,7.5,7.5,0.13,Yes
+472,Brazil,Other,7.92,7.5,7.58,7.42,7.5,0.11,Yes
+1026,Taiwan,Typica,7.25,7.08,7.08,7.08,8.08,0.11,Yes
+601,Mexico,Typica,8.08,8.0,8.0,7.83,7.92,0.12,Yes
+328,Colombia,Caturra,7.75,7.58,7.83,7.17,7.75,0.11,Yes
+583,Other,Other,7.5,7.42,7.58,7.58,7.5,0.12,Yes
+98,Costa Rica,Catuai,7.83,7.58,7.92,7.92,7.83,0.12,Yes
+404,Costa Rica,Caturra,7.67,7.42,7.67,7.67,7.67,0.12,Yes
+1044,Honduras,Catuai,7.25,7.08,7.5,7.25,7.33,0.13,Yes
+878,"Tanzania, United Republic Of",Other,7.42,7.25,7.42,7.5,7.42,0.12,Yes
+92,Colombia,Caturra,7.83,7.75,7.75,7.83,7.83,0.11,Yes
+1084,Mexico,Typica,6.92,7.08,7.5,7.33,7.17,0.1,Yes
+361,Colombia,Caturra,8.0,7.25,7.58,7.92,7.58,0.11,Yes
+68,Other,Other,8.33,7.67,7.92,7.67,7.92,0.12,Yes
+1145,Taiwan,Typica,7.75,7.17,7.33,7.67,7.83,0.0,No
+756,Brazil,Bourbon,7.42,7.5,7.42,7.42,7.5,0.11,Yes
+919,Taiwan,Typica,7.42,7.67,7.33,7.42,7.5,0.11,Yes
+977,Other,Typica,7.25,7.25,7.08,7.58,7.5,0.0,Yes
+182,Honduras,Catuai,7.58,7.58,7.75,7.92,7.75,0.11,Yes
+203,Guatemala,Bourbon,7.83,7.5,7.92,7.58,7.75,0.1,Yes
+774,Mexico,Typica,7.5,7.25,7.5,7.5,7.33,0.12,Yes
+1020,Brazil,Yellow Bourbon,7.25,7.25,7.25,7.25,7.33,0.12,Yes
+1194,Mexico,Typica,7.33,6.92,7.25,7.33,7.08,0.16,No
+161,Costa Rica,Caturra,7.92,7.83,7.83,7.58,7.58,0.11,Yes
+544,Other,Other,8.0,7.5,7.58,7.33,7.42,0.12,Yes
+719,Colombia,Caturra,7.42,7.5,7.17,7.08,8.33,0.1,Yes
+215,Guatemala,Bourbon,7.58,7.58,7.83,7.83,7.67,0.1,Yes
+905,Mexico,Other,7.33,7.25,7.5,7.5,7.17,0.11,Yes
+983,Guatemala,Caturra,7.42,7.33,7.25,7.25,7.42,0.12,Yes
+813,Guatemala,Bourbon,7.75,7.33,7.42,7.75,7.67,0.0,Yes
+204,Colombia,Caturra,7.58,7.75,7.83,7.92,7.83,0.11,Yes
+955,Brazil,Yellow Bourbon,7.17,7.42,7.25,7.42,7.33,0.12,Yes
+996,Mexico,Typica,7.42,7.25,7.42,7.17,7.25,0.1,Yes
+113,Brazil,Catuai,8.0,7.75,8.0,7.5,7.75,0.12,Yes
+1308,Other,Caturra,7.25,6.33,6.25,6.42,6.08,0.13,No
+849,Mexico,Typica,7.42,7.25,7.5,7.33,7.42,0.11,Yes
+136,Colombia,Caturra,7.75,7.75,7.83,7.75,7.83,0.0,Yes
+227,Other,Bourbon,8.42,7.5,7.17,7.58,8.17,0.11,Yes
+684,Guatemala,Caturra,7.5,7.5,7.67,7.42,7.5,0.1,Yes
+79,Other,Other,7.83,7.75,8.08,7.92,7.75,0.0,Yes
+1043,Honduras,Catuai,7.42,7.08,7.42,7.25,7.25,0.09,Yes
+844,Taiwan,Typica,7.67,7.17,7.25,7.75,7.33,0.0,Yes
+326,Guatemala,Bourbon,7.67,7.42,7.67,8.0,7.75,0.12,Yes
+946,Mexico,Typica,7.42,7.25,7.25,7.5,7.33,0.13,Yes
+847,Brazil,Bourbon,7.33,7.25,7.17,7.83,7.33,0.11,Yes
+76,Guatemala,Other,7.83,7.83,7.67,7.83,8.58,0.11,Yes
+1090,Guatemala,Bourbon,7.33,6.83,7.5,7.0,7.17,0.11,Yes
+62,Other,Bourbon,7.92,8.0,7.92,7.75,7.83,0.1,Yes
+987,Brazil,Other,7.58,7.5,7.25,7.75,7.58,0.11,Yes
+1053,Other,Caturra,7.5,7.17,7.17,7.25,7.17,0.12,Yes
+341,Other,Other,7.75,7.58,7.67,7.5,7.67,0.0,Yes
+1187,Guatemala,Catuai,7.25,6.75,7.25,7.0,6.92,0.11,No
+648,Colombia,Caturra,7.58,7.42,7.58,7.67,7.42,0.11,Yes
+1004,Taiwan,Typica,7.25,7.17,7.25,7.5,7.33,0.12,Yes
+541,Mexico,Typica,7.83,7.25,7.58,7.5,7.5,0.13,Yes
+1063,Brazil,Bourbon,7.42,7.33,7.0,7.08,7.25,0.0,Yes
+570,Colombia,Typica,7.5,7.58,7.5,7.58,7.58,0.0,Yes
+1108,Guatemala,Bourbon,7.33,7.0,7.17,7.17,7.17,0.11,Yes
+835,Brazil,Other,7.42,7.42,7.5,7.42,7.25,0.11,Yes
+939,Other,Other,7.58,7.33,7.42,7.08,7.42,0.12,Yes
+817,Honduras,Caturra,7.58,7.25,7.33,7.42,7.5,0.12,Yes
+409,Colombia,Caturra,7.67,7.5,7.67,7.92,7.42,0.11,Yes
+872,Guatemala,Bourbon,7.42,7.17,7.67,7.33,7.42,0.12,Yes
+1179,Mexico,Typica,7.0,6.83,7.33,7.42,6.92,0.14,No
+609,Other,Other,7.67,7.42,7.42,7.42,7.5,0.13,Yes
+796,Brazil,Bourbon,7.5,7.42,7.5,7.33,7.42,0.11,Yes
+892,Mexico,Bourbon,7.58,7.25,7.58,7.25,7.17,0.11,Yes
+1011,Mexico,Other,7.08,7.33,7.33,7.42,7.25,0.12,Yes
+768,Mexico,Other,7.5,7.33,7.42,7.5,7.42,0.1,Yes
+1042,Other,Caturra,7.25,7.17,7.33,7.33,7.17,0.11,Yes
+550,Colombia,Caturra,7.75,7.25,7.5,7.75,7.5,0.0,Yes
+598,Colombia,Caturra,7.58,7.17,7.33,7.25,8.58,0.1,Yes
+928,Mexico,Typica,7.5,7.25,7.5,7.42,7.58,0.11,Yes
+1078,Mexico,Typica,7.25,7.08,7.33,7.25,7.17,0.15,Yes
+283,Costa Rica,Catuai,7.83,7.5,7.83,7.75,7.83,0.1,Yes
+536,Taiwan,Caturra,7.17,7.25,7.67,7.67,7.58,0.09,Yes
+382,Other,Bourbon,7.58,7.75,7.58,7.75,7.67,0.11,Yes
+900,Other,Other,7.42,7.17,7.58,7.33,7.33,0.13,Yes
+565,Guatemala,Bourbon,7.58,7.33,7.67,7.67,7.5,0.11,Yes
+738,Other,Bourbon,7.58,7.5,7.67,7.83,8.42,0.12,Yes
+287,Colombia,Caturra,7.67,7.58,7.83,7.58,7.67,0.11,Yes
+777,Other,Bourbon,7.5,7.42,7.42,7.5,7.42,0.15,Yes
+400,Mexico,Caturra,7.75,7.5,7.67,7.5,7.58,0.12,Yes
+480,Brazil,Yellow Bourbon,7.58,7.58,7.5,7.67,7.58,0.11,Yes
+641,"Tanzania, United Republic Of",Other,7.75,7.33,7.5,7.58,7.5,0.12,Yes
+1227,Guatemala,Other,7.17,6.67,7.0,7.17,7.17,0.1,No
+167,Mexico,Typica,7.92,7.75,7.75,7.75,7.83,0.11,Yes
+284,Guatemala,Bourbon,7.58,7.33,8.0,7.58,7.75,0.1,Yes
+1218,Mexico,Typica,7.0,6.75,7.33,6.92,6.92,0.13,No
+886,Taiwan,Typica,7.58,7.33,7.42,7.33,7.33,0.11,Yes
+1153,Mexico,Bourbon,7.25,7.17,7.08,7.17,7.0,0.14,No
+175,Taiwan,Typica,7.83,7.75,8.0,7.5,7.75,0.11,Yes
+348,Mexico,Typica,7.83,7.58,7.58,7.67,7.58,0.12,Yes
+144,Other,Other,7.92,7.83,7.75,7.58,7.92,0.11,Yes
+534,Other,Bourbon,7.5,7.75,7.58,7.92,7.83,0.0,Yes
+444,Other,Other,7.58,7.08,7.33,7.58,8.58,0.07,Yes
+1228,Guatemala,Bourbon,7.17,6.5,7.17,7.0,6.83,0.11,No
+889,Mexico,Typica,7.25,7.58,7.67,7.67,7.58,0.13,Yes
+126,Other,Other,7.92,7.75,7.75,7.75,7.75,0.12,Yes
+53,Other,Other,8.17,7.92,8.08,7.83,7.75,0.12,Yes
+925,Mexico,Catuai,7.42,7.17,7.42,7.17,8.0,0.12,Yes
+624,Guatemala,Caturra,7.67,7.17,7.67,7.5,7.5,0.11,Yes
+465,Mexico,Typica,7.75,7.58,7.5,7.42,7.58,0.12,Yes
+538,Taiwan,Typica,7.5,7.67,7.33,7.5,7.75,0.0,Yes
+40,Other,Caturra,7.83,7.83,8.25,7.58,7.92,0.1,Yes
+1030,Other,Other,7.42,7.17,7.17,7.17,7.25,0.0,Yes
+22,Mexico,Other,8.17,8.17,8.0,7.83,8.17,0.13,Yes
+929,Other,Other,7.75,7.17,7.33,7.58,7.33,0.12,Yes
+21,Costa Rica,Caturra,8.08,8.0,8.17,8.0,8.33,0.11,Yes
+566,Brazil,Catuai,7.58,7.33,7.67,7.42,7.33,0.12,Yes
+525,Colombia,Caturra,7.67,7.58,7.5,7.67,7.42,0.12,Yes
+537,Other,Other,7.58,7.5,7.5,7.58,7.58,0.0,Yes
+1098,Other,Catuai,7.42,7.08,7.0,7.17,7.33,0.0,Yes
+1191,Mexico,Typica,6.75,6.83,7.25,7.58,7.08,0.01,No
+423,Mexico,Typica,7.83,7.5,7.58,7.58,7.58,0.12,Yes
+921,Other,Other,7.42,7.25,7.42,7.42,7.33,0.11,Yes
+915,Other,Catuai,7.25,7.25,7.5,7.33,7.33,0.0,Yes
+412,Other,Bourbon,7.75,7.33,7.5,7.5,7.75,0.0,Yes
+667,Mexico,Typica,7.67,7.33,7.67,7.5,7.33,0.12,Yes
+934,Mexico,Other,7.58,7.08,7.33,7.5,7.33,0.12,Yes
+28,Honduras,Caturra,8.17,8.08,8.0,8.08,8.0,0.1,Yes
+724,Mexico,Typica,7.67,7.42,7.5,7.42,7.42,0.12,Yes
+757,Honduras,Caturra,7.5,7.17,7.42,7.5,7.5,0.11,Yes
+803,Costa Rica,Catuai,7.5,7.33,7.33,7.75,7.5,0.1,Yes
+1135,Mexico,Catuai,7.17,7.08,7.08,7.5,7.33,0.11,No
+261,Brazil,Bourbon,7.58,7.67,7.75,7.58,7.83,0.11,Yes
+454,"Tanzania, United Republic Of",Other,7.58,7.67,7.58,7.42,7.58,0.13,Yes
+160,Other,Other,7.75,7.67,7.83,7.75,7.67,0.1,Yes
+1276,Mexico,Other,7.5,6.92,7.0,7.17,6.83,0.11,No
+930,Brazil,Bourbon,7.5,7.17,7.42,7.5,7.33,0.12,Yes
+301,Colombia,Caturra,7.75,7.5,7.67,7.58,7.83,0.0,Yes
+1293,Honduras,Other,7.0,6.83,7.17,7.0,7.17,0.11,No
+721,Taiwan,Typica,7.5,7.5,7.5,7.5,7.5,0.11,Yes
+1185,Honduras,Catuai,7.58,6.75,6.92,7.0,6.92,0.11,No
+764,Guatemala,Bourbon,7.42,7.5,7.5,7.42,7.5,0.09,Yes
+158,Costa Rica,Caturra,7.92,7.92,7.75,7.67,7.58,0.1,Yes
+846,Other,Other,7.58,7.33,7.33,7.33,7.42,0.13,Yes
+500,Other,Bourbon,7.67,7.5,7.58,7.42,7.5,0.12,Yes
+959,Mexico,Typica,7.58,7.25,7.33,7.25,7.25,0.13,Yes
+413,Colombia,Caturra,7.5,7.67,7.58,7.67,7.58,0.0,Yes
+18,Other,Other,8.42,8.08,8.17,7.92,8.0,0.1,Yes
+1112,Guatemala,Bourbon,7.33,7.0,7.33,7.0,7.0,0.11,Yes
+723,Colombia,Caturra,7.5,7.5,7.5,7.5,7.58,0.0,Yes
+994,Mexico,Typica,7.33,7.33,7.42,7.25,7.42,0.12,Yes
+866,Mexico,Caturra,7.33,7.33,7.67,7.42,7.25,0.12,Yes
+1189,Mexico,Typica,7.25,6.92,7.08,7.17,7.17,0.14,No
+43,Taiwan,Bourbon,8.08,7.75,8.08,7.75,7.83,0.12,Yes
+553,Mexico,Typica,7.58,7.33,7.25,7.58,7.75,0.1,Yes
+649,Mexico,Typica,7.5,7.5,7.5,7.42,7.5,0.1,Yes
+478,Colombia,Caturra,7.58,7.33,7.67,7.75,7.58,0.0,Yes
+302,Other,Bourbon,8.0,7.58,7.75,7.33,7.5,0.12,Yes
+365,Colombia,Caturra,7.58,7.42,7.67,7.75,7.67,0.0,Yes
+66,Other,Other,7.92,7.83,8.08,7.83,7.92,0.1,Yes
+165,Other,Other,7.92,7.67,8.0,7.67,7.75,0.11,Yes
+1082,Other,Other,7.25,7.25,7.17,7.33,7.17,0.17,Yes
+285,Brazil,Yellow Bourbon,7.92,7.33,7.67,8.17,7.5,0.1,Yes
+842,Honduras,Catuai,7.5,7.33,7.5,7.42,7.25,0.12,Yes
+196,Other,Other,7.83,7.58,7.75,7.75,7.75,0.1,Yes
+259,Mexico,Other,7.83,7.58,7.92,7.42,7.5,0.11,Yes
+238,Mexico,Typica,7.67,7.67,7.75,7.67,7.75,0.11,Yes
+1287,Guatemala,Bourbon,6.5,6.5,7.5,7.33,6.83,0.11,No
+1040,Other,Other,7.25,7.17,7.25,7.33,7.25,0.12,Yes
+512,Brazil,Yellow Bourbon,7.75,7.42,7.67,7.42,7.67,0.12,Yes
+942,Mexico,Typica,7.67,7.25,7.17,7.25,7.42,0.0,Yes
+1259,Other,Caturra,7.42,7.42,7.67,7.92,7.83,0.0,No
+111,Mexico,Typica,7.75,7.75,7.83,7.5,7.92,0.11,Yes
+937,Honduras,Catuai,7.5,7.17,7.25,7.5,7.42,0.12,Yes
+235,Colombia,Caturra,7.92,7.67,7.75,7.67,7.67,0.0,Yes
+467,Colombia,Caturra,7.67,7.5,7.5,7.58,8.17,0.11,Yes
+1151,Mexico,Bourbon,7.58,6.92,7.58,7.5,6.92,0.13,No
+1249,Taiwan,Typica,7.17,6.58,7.33,7.33,7.17,0.11,No
+688,Brazil,Yellow Bourbon,7.25,7.25,7.5,7.42,7.5,0.0,Yes
+800,Other,Other,7.5,7.33,7.58,7.33,7.5,0.13,Yes
+145,Colombia,Other,7.83,7.58,7.92,7.67,7.83,0.0,Yes
+1065,Guatemala,Bourbon,7.17,6.83,7.5,7.17,7.25,0.11,Yes
+870,Brazil,Bourbon,7.42,7.25,7.5,7.5,7.25,0.11,Yes
+763,Honduras,Catuai,7.67,7.25,7.42,7.58,7.42,0.11,Yes
+1184,Guatemala,Bourbon,7.33,7.33,7.42,7.5,7.42,0.1,No
+1270,Mexico,Bourbon,7.08,6.83,7.17,7.17,7.08,0.12,No
+376,Guatemala,Bourbon,7.67,7.5,7.58,7.58,7.67,0.1,Yes
+370,Guatemala,Caturra,7.83,7.5,8.0,7.67,7.5,0.1,Yes
+1263,Mexico,Typica,7.17,6.58,7.0,7.25,6.58,0.13,No
+640,Other,Caturra,7.42,7.58,7.42,7.58,7.5,0.12,Yes
+1208,Guatemala,Bourbon,7.33,6.33,7.25,7.0,7.0,0.12,No
+1294,Mexico,Typica,7.08,6.92,7.08,6.92,6.92,0.0,No
+973,Mexico,Caturra,7.75,7.08,7.25,7.08,7.25,0.12,Yes
+1073,Other,Other,7.17,7.17,7.42,7.25,7.08,0.0,Yes
+1234,Mexico,Typica,7.08,6.67,7.25,7.25,6.92,0.11,No
+592,Colombia,Caturra,7.5,7.58,7.75,7.33,7.5,0.0,Yes
+1111,Mexico,Bourbon,7.33,7.17,7.08,7.25,7.0,0.12,Yes
+135,Taiwan,Typica,8.0,7.75,7.75,7.75,7.75,0.11,Yes
+296,Brazil,Bourbon,7.67,7.58,7.75,7.67,7.67,0.11,Yes
+273,Mexico,Typica,7.75,7.83,7.92,7.75,7.67,0.0,Yes
+545,Other,Other,7.75,7.58,7.5,7.5,7.5,0.12,Yes
+711,Other,Other,7.5,7.42,7.5,7.42,7.42,0.12,Yes
+1261,Mexico,Typica,6.67,6.42,6.83,7.0,6.92,0.0,No
+575,Guatemala,Bourbon,7.67,7.33,7.5,7.33,7.92,0.11,Yes
+99,Mexico,Typica,7.83,7.83,7.75,7.67,7.83,0.09,Yes
+194,Guatemala,Caturra,7.75,7.58,7.92,7.75,7.75,0.11,Yes
+794,Honduras,Caturra,7.5,7.17,7.5,7.5,7.42,0.12,Yes
+1023,Other,Caturra,7.33,7.25,7.0,7.5,7.42,0.1,Yes
+582,Guatemala,Bourbon,7.42,7.42,7.67,7.5,7.5,0.1,Yes
+332,Other,Typica,8.17,7.58,7.58,7.42,7.67,0.12,Yes
+1125,Taiwan,Typica,7.25,7.25,7.0,7.25,7.0,0.11,No
+914,Taiwan,Typica,7.5,7.33,7.08,7.58,7.25,0.12,Yes
+73,Brazil,Bourbon,8.0,8.0,7.67,7.75,8.0,0.11,Yes
+588,Honduras,Caturra,7.58,7.42,7.58,7.5,7.5,0.09,Yes
+214,Guatemala,Caturra,7.75,7.58,7.92,7.67,7.67,0.1,Yes
+965,Honduras,Catuai,7.42,7.17,7.5,7.33,7.25,0.12,Yes
+366,Colombia,Caturra,7.58,7.58,7.75,7.58,7.75,0.11,Yes
+155,Colombia,Caturra,7.42,7.75,7.75,8.08,7.83,0.11,Yes
+270,Colombia,Caturra,7.67,7.67,7.75,7.67,7.83,0.12,Yes
+172,Other,Other,7.67,7.83,7.58,7.83,7.83,0.0,Yes
+854,Mexico,Bourbon,7.83,7.25,7.58,7.25,7.33,0.12,Yes
+356,Colombia,Caturra,7.58,7.58,7.58,7.75,7.67,0.12,Yes
+772,Mexico,Typica,7.5,7.0,7.5,7.33,7.5,0.15,Yes
+268,Colombia,Caturra,7.75,7.67,7.83,7.83,7.67,0.0,Yes
+362,Guatemala,Caturra,7.58,7.5,7.83,7.42,7.67,0.1,Yes
+1152,Mexico,Bourbon,7.25,7.0,7.17,7.17,7.08,0.12,No
+890,Mexico,Bourbon,7.67,7.17,7.75,7.5,7.25,0.11,Yes
+316,Honduras,Caturra,7.5,7.67,7.67,8.0,8.0,0.1,Yes
+345,Colombia,Caturra,7.75,7.5,7.58,7.75,7.83,0.0,Yes
+717,Guatemala,Other,7.58,7.5,7.58,7.75,7.5,0.12,Yes
+1306,Mexico,Bourbon,7.08,6.25,7.42,7.25,6.75,0.11,No
+1304,Honduras,Catuai,7.0,6.17,6.67,6.5,6.17,0.1,No
+615,"Tanzania, United Republic Of",Other,7.5,7.5,7.5,7.5,7.58,0.12,Yes
+186,Mexico,Typica,8.0,7.75,7.83,7.5,7.67,0.12,Yes
+984,Brazil,Other,7.42,7.25,7.42,7.5,7.17,0.12,Yes
+989,Other,Other,7.42,7.33,7.42,7.25,7.33,0.0,Yes
+245,Guatemala,Bourbon,7.92,7.42,7.92,7.75,7.83,0.1,Yes
+603,Colombia,Caturra,7.67,7.58,7.58,7.5,7.42,0.11,Yes
+974,Costa Rica,Caturra,7.5,7.33,7.17,7.08,7.17,0.11,Yes
+1132,Mexico,Bourbon,7.33,7.08,7.33,7.42,7.17,0.12,No
+841,Mexico,Catuai,7.58,7.33,7.5,7.17,7.33,0.11,Yes
+469,Colombia,Caturra,7.58,7.5,7.58,7.67,7.67,0.11,Yes
+1114,Brazil,Bourbon,7.17,7.0,7.17,7.25,7.25,0.11,Yes
+686,Brazil,Catuai,7.58,7.33,7.5,7.5,7.42,0.12,Yes
+859,Guatemala,Bourbon,7.5,7.25,7.42,7.42,7.33,0.11,Yes
+255,Other,Other,7.67,7.67,7.75,7.83,7.67,0.0,Yes
+956,Other,Other,7.08,7.42,7.33,7.33,7.5,0.14,Yes
+608,Brazil,Bourbon,7.5,7.5,7.67,7.5,7.42,0.11,Yes
+698,Mexico,Caturra,7.58,7.33,7.58,7.5,7.5,0.11,Yes
+1005,Honduras,Caturra,7.42,7.25,7.33,7.25,7.17,0.12,Yes
+1139,Other,Other,7.0,7.0,7.17,7.25,7.25,0.11,No
+992,Other,Other,7.67,7.67,7.58,7.58,7.67,0.0,Yes
+1025,Taiwan,Typica,7.42,7.25,7.25,7.25,7.25,0.11,Yes
+868,Colombia,Caturra,7.33,7.33,7.33,7.5,7.67,0.0,Yes
+1016,Mexico,Bourbon,7.5,7.17,7.42,7.5,7.33,0.11,Yes
+335,Brazil,Bourbon,7.58,7.58,7.58,7.67,7.58,0.11,Yes
+116,Other,Other,7.75,7.67,7.67,8.25,7.75,0.12,Yes
+760,"Tanzania, United Republic Of",Other,7.42,7.42,7.5,7.5,7.33,0.12,Yes
+568,Other,Other,7.42,7.25,7.5,7.75,7.75,0.0,Yes
+1285,Mexico,Typica,7.08,6.83,7.5,7.33,6.83,0.12,No
+1199,Honduras,Other,7.0,7.0,7.0,7.0,7.0,0.11,No
+250,Other,Other,7.75,7.5,7.58,7.67,7.92,0.09,Yes
+1046,Mexico,Typica,7.58,7.42,7.25,7.5,7.5,0.11,Yes
+1268,Mexico,Typica,7.42,6.83,7.08,6.92,6.83,0.16,No
+1056,Guatemala,Bourbon,7.67,7.0,7.5,7.0,7.0,0.12,Yes
+128,Costa Rica,Catuai,8.08,7.67,7.83,7.5,7.92,0.1,Yes
+179,Other,Other,7.33,7.83,7.75,7.75,7.92,0.11,Yes
+1110,Mexico,Typica,7.58,7.33,7.5,7.08,7.17,0.14,Yes
+516,Colombia,Caturra,7.58,7.42,7.67,7.58,7.42,0.0,Yes
+349,Colombia,Caturra,7.67,7.58,7.58,7.67,7.75,0.11,Yes
+11,Other,Other,8.25,8.17,8.33,8.08,8.17,0.0,Yes
+363,Colombia,Caturra,7.75,7.33,7.5,7.83,7.83,0.0,Yes
+701,Colombia,Caturra,7.67,7.25,7.42,7.5,7.67,0.0,Yes
+401,Colombia,Caturra,7.67,7.42,7.83,7.83,7.42,0.11,Yes
+130,Costa Rica,Caturra,8.17,7.83,7.17,7.83,7.75,0.12,Yes
+300,Other,Other,7.83,7.67,7.5,7.58,7.67,0.1,Yes
+112,Brazil,Bourbon,8.0,7.75,7.75,8.0,7.75,0.11,Yes
+605,Other,Catuai,7.42,7.5,7.58,7.5,7.75,0.0,Yes
+561,Brazil,Yellow Bourbon,7.67,7.58,7.5,7.5,7.42,0.11,Yes
+1303,Honduras,Catuai,6.67,6.17,6.67,6.83,6.17,0.1,No
+406,Costa Rica,Catuai,7.5,7.67,7.5,7.83,7.17,0.11,Yes
+193,Colombia,Caturra,7.83,7.75,7.58,7.67,8.0,0.11,Yes
+1252,Guatemala,Bourbon,7.08,6.33,7.0,6.92,7.0,0.11,No
+1190,Mexico,Typica,7.17,6.92,7.08,7.17,7.0,0.14,No
+1274,Guatemala,Bourbon,7.92,7.17,7.58,7.33,7.17,0.11,No
+972,"Tanzania, United Republic Of",Bourbon,7.67,7.17,7.33,7.5,7.17,0.12,Yes
+80,Other,Other,8.0,7.92,8.08,7.83,7.75,0.0,Yes
+807,Brazil,Other,7.33,7.42,7.17,7.33,7.42,0.11,Yes
+442,"Tanzania, United Republic Of",Bourbon,7.67,7.42,7.67,7.67,7.58,0.12,Yes
+1180,Mexico,Typica,7.42,7.08,7.17,7.08,7.08,0.14,No
+452,Other,Other,7.83,7.67,7.75,7.83,8.5,0.1,Yes
+1282,Mexico,Typica,7.33,6.67,7.25,7.5,7.0,0.12,No
+736,Guatemala,Other,7.67,7.25,7.67,7.42,7.42,0.11,Yes
+883,Costa Rica,Caturra,7.5,7.17,7.17,7.5,7.08,0.11,Yes
+96,Other,Other,8.17,7.75,7.75,7.67,7.75,0.11,Yes
+71,Other,Other,8.08,7.83,7.67,8.0,7.83,0.12,Yes
+954,Honduras,Catuai,7.58,7.17,7.42,7.17,7.17,0.09,Yes
+563,Other,Bourbon,7.83,7.75,7.83,7.75,7.75,0.11,Yes
+677,Guatemala,Bourbon,7.58,7.25,7.67,7.5,7.5,0.12,Yes
+1085,Mexico,Caturra,7.42,7.08,7.33,7.25,7.17,0.12,Yes
+991,Costa Rica,Caturra,7.42,7.17,7.25,7.25,7.58,0.13,Yes
+330,Guatemala,Bourbon,7.67,7.5,7.42,7.58,7.83,0.11,Yes
+518,Mexico,Typica,7.67,7.42,7.5,7.67,7.58,0.11,Yes
+600,Mexico,Typica,7.58,7.33,7.75,7.25,7.58,0.12,Yes
+218,Brazil,Catuai,7.67,7.75,7.67,7.83,7.75,0.0,Yes
+29,Taiwan,Other,8.0,8.0,8.25,8.0,8.17,0.0,Yes
+159,Other,Other,7.92,7.67,7.75,7.83,7.75,0.11,Yes
+246,Guatemala,Bourbon,7.75,7.5,7.83,7.58,7.67,0.1,Yes
+864,Mexico,Other,7.42,7.17,7.67,7.33,7.42,0.13,Yes
+622,Colombia,Caturra,7.75,7.67,7.25,7.58,7.42,0.11,Yes
+4,Other,Other,8.25,8.25,8.5,8.42,8.33,0.12,Yes
+445,Guatemala,Caturra,7.67,7.42,7.75,7.58,7.5,0.11,Yes
+750,Mexico,Typica,7.33,7.42,7.67,7.33,7.5,0.11,Yes
+115,Taiwan,Typica,7.92,7.83,7.83,7.83,7.83,0.0,Yes
+1240,Guatemala,Bourbon,7.0,6.83,7.17,6.67,6.83,0.11,No
+156,Brazil,Bourbon,8.0,7.75,7.75,7.58,7.75,0.12,Yes
+643,Costa Rica,Catuai,7.67,7.5,7.67,7.0,7.75,0.11,Yes
+1015,Other,Other,7.17,7.5,7.5,8.0,7.75,0.11,Yes
+902,Brazil,Yellow Bourbon,7.42,7.33,7.33,7.5,7.25,0.12,Yes
+968,Taiwan,Typica,7.5,7.25,7.25,7.25,7.25,0.11,Yes
+945,Mexico,Caturra,7.42,7.25,7.17,7.25,7.42,0.13,Yes
+927,Mexico,Bourbon,7.42,7.33,7.17,7.25,7.42,0.13,Yes
+1009,Taiwan,Typica,7.5,7.33,7.33,7.33,7.33,0.11,Yes
+808,Mexico,Typica,7.67,7.25,7.5,7.42,7.42,0.12,Yes
+891,Mexico,Bourbon,7.5,7.33,7.42,7.42,7.42,0.11,Yes
+572,"Tanzania, United Republic Of",Other,7.67,7.33,7.25,7.58,7.75,0.11,Yes
+775,Mexico,Typica,7.0,7.5,7.5,7.42,7.5,0.1,Yes
+820,Guatemala,Catuai,7.58,7.17,7.83,7.17,7.33,0.11,Yes
+1163,Mexico,Other,6.92,7.17,7.17,7.08,7.08,0.0,No
+1236,Honduras,Other,6.83,6.67,7.0,7.0,6.83,0.11,No
+1038,Other,Catuai,6.92,7.0,7.58,7.5,7.08,0.0,Yes
+814,Colombia,Caturra,7.33,7.08,7.42,7.5,7.67,0.07,Yes
+212,Costa Rica,Caturra,7.92,7.67,7.67,7.5,7.67,0.09,Yes
+573,Mexico,Caturra,7.58,7.5,7.58,7.5,7.5,0.12,Yes
+769,Taiwan,Typica,7.5,7.5,7.5,7.5,7.5,0.11,Yes
+646,Colombia,Caturra,7.75,7.33,7.42,7.5,7.83,0.11,Yes
+591,Other,Other,7.5,7.42,7.67,7.5,7.5,0.11,Yes
+140,Mexico,Typica,7.83,7.67,7.92,7.92,7.83,0.13,Yes
+879,"Tanzania, United Republic Of",Other,7.33,7.5,7.25,7.42,7.33,0.12,Yes
+304,Colombia,Caturra,7.67,7.67,7.92,7.5,7.67,0.0,Yes
+35,Other,Other,8.08,8.0,8.25,7.92,7.92,0.12,Yes
+12,Other,Other,8.08,8.33,8.42,8.0,8.08,0.0,Yes
+1008,Other,Other,7.33,7.17,7.33,7.42,7.42,0.12,Yes
+957,Other,Other,7.75,7.08,7.33,7.33,7.25,0.13,Yes
+885,Taiwan,Typica,7.5,7.5,7.25,7.42,7.25,0.11,Yes
+1149,Costa Rica,Catuai,7.58,7.67,7.75,7.67,7.58,0.1,No
+154,Costa Rica,Bourbon,7.75,7.75,8.0,7.83,7.67,0.12,Yes
+86,Other,Other,7.75,7.67,8.0,8.08,7.83,0.11,Yes
+590,Other,Other,7.67,7.33,7.33,7.67,7.67,0.1,Yes
+1166,Mexico,Caturra,7.25,6.92,7.33,7.25,7.0,0.13,No
+58,Guatemala,Catuai,8.0,7.83,8.33,7.83,7.83,0.1,Yes
+295,Other,Other,7.75,7.5,7.58,7.75,7.75,0.11,Yes
+613,Brazil,Yellow Bourbon,7.58,7.42,7.67,7.5,7.5,0.0,Yes
+840,Other,Catuai,7.33,7.5,7.42,7.33,7.33,0.0,Yes
+734,Brazil,Catuai,7.58,7.25,7.42,7.67,7.33,0.09,Yes
+1089,Taiwan,Yellow Bourbon,7.25,7.08,7.25,7.25,7.25,0.11,Yes
+727,Mexico,Typica,7.58,7.58,7.33,7.0,7.58,0.15,Yes
+670,Brazil,Bourbon,7.67,7.33,7.67,7.5,7.5,0.0,Yes
+852,Brazil,Bourbon,7.75,7.5,7.42,7.83,7.75,0.12,Yes
+426,Colombia,Caturra,7.58,7.5,7.58,7.58,7.75,0.0,Yes
+666,Mexico,Typica,7.5,7.5,7.5,7.42,7.42,0.13,Yes
+1209,Mexico,Typica,7.25,6.83,7.0,7.17,7.0,0.14,No
+371,Colombia,Caturra,7.67,7.58,7.67,7.67,7.67,0.11,Yes
+694,Mexico,Typica,7.42,7.33,7.58,7.5,7.5,0.14,Yes
+1146,Taiwan,Typica,7.08,7.25,7.0,7.17,7.17,0.1,No
+1054,Mexico,Typica,7.25,7.17,7.25,7.17,7.42,0.12,Yes
+185,Colombia,Caturra,7.75,7.33,7.83,7.58,8.08,0.0,Yes
+829,Mexico,Other,7.33,7.17,7.58,7.42,7.33,0.12,Yes
+1156,Mexico,Typica,7.25,6.92,7.08,7.25,7.08,0.12,No
+1072,Brazil,Yellow Bourbon,7.25,7.17,7.5,7.33,7.25,0.11,Yes
+584,Guatemala,Bourbon,7.58,7.33,7.58,7.33,7.67,0.12,Yes
+1124,Mexico,Typica,7.58,7.42,7.5,7.5,7.5,0.0,No
+305,Colombia,Other,7.67,7.42,7.42,8.0,8.33,0.0,Yes
+187,Brazil,Yellow Bourbon,8.17,7.5,7.75,7.5,7.67,0.0,Yes
+1118,Taiwan,Typica,7.25,7.25,7.0,7.25,7.08,0.11,Yes
+880,Brazil,Bourbon,7.25,7.25,7.5,7.5,7.42,0.1,Yes
+578,Guatemala,Caturra,7.5,7.42,7.67,7.58,7.5,0.1,Yes
+804,Honduras,Caturra,7.33,7.33,7.5,7.5,7.83,0.11,Yes
+1277,Mexico,Other,7.17,6.67,6.83,7.25,7.75,0.11,No
+922,Taiwan,Typica,7.5,7.25,7.25,7.33,7.33,0.11,Yes
+1002,Colombia,Caturra,7.67,7.42,5.25,7.67,7.75,0.0,Yes
+42,Brazil,Yellow Bourbon,8.42,8.0,7.75,7.92,8.0,0.01,Yes
+1109,Mexico,Typica,7.33,6.92,7.42,7.25,7.08,0.11,Yes
+103,Mexico,Other,7.92,7.75,8.08,7.42,7.83,0.0,Yes
+1075,Brazil,Yellow Bourbon,7.42,7.08,7.33,7.67,7.5,0.1,Yes
+576,Mexico,Typica,7.58,7.5,7.42,7.67,7.58,0.11,Yes
+595,Colombia,Typica,7.67,7.42,7.58,7.33,7.67,0.12,Yes
+716,Brazil,Bourbon,7.75,7.67,8.08,8.08,8.0,0.11,Yes
+340,Mexico,Caturra,7.75,7.58,7.58,7.5,7.67,0.12,Yes
+198,Colombia,Caturra,7.83,7.75,7.58,7.92,7.75,0.12,Yes
+1150,Mexico,Typica,7.58,7.0,7.0,7.5,6.92,0.12,No
+39,Other,Other,7.67,8.0,8.0,8.17,8.08,0.0,Yes
+377,Colombia,Caturra,7.67,7.5,7.67,7.67,7.58,0.11,Yes
+129,Guatemala,Bourbon,7.75,7.58,8.0,7.92,7.75,0.1,Yes
+121,Other,Other,7.92,7.58,7.92,7.75,7.83,0.13,Yes
+655,Honduras,Caturra,7.58,7.33,7.5,7.5,7.5,0.1,Yes
+470,Mexico,Typica,7.5,7.58,7.58,7.67,7.5,0.11,Yes
+888,Guatemala,Bourbon,7.5,7.33,7.33,7.33,7.33,0.11,Yes
+1301,Mexico,Typica,6.92,6.83,6.92,7.42,6.92,0.12,No
+975,Honduras,Catuai,7.42,7.0,7.42,7.33,7.33,0.13,Yes
+871,Guatemala,Bourbon,7.42,7.08,7.42,7.33,7.42,0.1,Yes
+831,Brazil,Other,7.42,7.25,7.5,7.33,7.5,0.12,Yes
+1019,"Tanzania, United Republic Of",Other,7.33,7.17,7.25,7.42,7.33,0.12,Yes
+1204,Mexico,Typica,7.33,6.75,7.08,7.17,7.25,0.12,No
+271,Mexico,Typica,7.67,7.58,7.67,7.75,7.83,0.12,Yes
+481,Brazil,Yellow Bourbon,7.33,7.67,7.33,7.75,7.42,0.0,Yes
+427,Guatemala,Caturra,7.5,7.58,7.67,7.67,7.5,0.1,Yes
+1064,Honduras,Caturra,7.5,7.0,7.42,7.33,7.0,0.11,Yes
+15,Other,Other,8.0,8.58,8.17,8.17,8.0,0.0,Yes
+1222,Mexico,Typica,7.08,6.83,7.0,7.0,6.92,0.12,No
+375,Colombia,Caturra,7.5,7.58,7.5,7.75,7.83,0.0,Yes
+926,Mexico,Typica,7.33,7.33,7.33,7.33,7.42,0.11,Yes
+180,Honduras,Caturra,7.92,7.75,7.67,7.67,7.75,0.1,Yes
+487,Taiwan,Typica,7.75,7.5,7.5,7.5,7.5,0.11,Yes
+459,Honduras,Caturra,7.67,7.5,7.67,7.5,7.67,0.11,Yes
+535,Colombia,Caturra,7.58,7.5,7.33,7.67,7.58,0.11,Yes
+551,Guatemala,Bourbon,7.83,7.25,7.92,7.5,7.17,0.11,Yes
+122,Honduras,Catuai,7.83,8.0,7.67,7.67,7.67,0.11,Yes
+133,Costa Rica,Catuai,8.0,7.83,7.75,7.75,7.75,0.11,Yes
+747,Mexico,Bourbon,7.5,7.42,7.67,7.33,7.42,0.13,Yes
+845,Other,Typica,7.42,7.42,7.33,7.42,7.42,0.11,Yes
+1096,Mexico,Caturra,7.25,7.0,7.33,7.33,7.0,0.1,Yes
+368,Mexico,Typica,7.67,7.67,7.75,7.58,7.5,0.11,Yes
+489,Mexico,Other,7.75,7.42,7.75,7.5,7.5,0.1,Yes
+517,Colombia,Caturra,7.5,7.42,7.58,7.75,7.58,0.11,Yes
+633,Guatemala,Bourbon,7.5,7.42,7.75,7.5,7.5,0.1,Yes
+446,Honduras,Catuai,7.67,7.5,7.67,7.5,7.67,0.11,Yes
+617,Taiwan,Typica,8.0,7.83,7.42,7.25,7.25,0.08,Yes
+149,Guatemala,Bourbon,8.0,7.67,7.58,7.58,7.67,0.09,Yes
+307,Colombia,Caturra,7.75,7.75,7.58,7.42,8.0,0.11,Yes
+147,Other,Other,7.83,7.83,7.75,7.58,7.83,0.1,Yes
+391,Colombia,Caturra,7.5,7.58,7.5,7.67,7.75,0.11,Yes
+861,"Tanzania, United Republic Of",Other,7.42,7.42,7.42,7.33,7.33,0.12,Yes
+1278,Mexico,Other,7.25,6.67,7.08,7.17,6.83,0.12,No
+497,Brazil,Bourbon,7.5,7.58,7.67,7.58,7.5,0.11,Yes
+464,Mexico,Typica,7.75,7.58,7.58,7.5,7.42,0.11,Yes
+1200,Other,Typica,7.67,7.08,7.25,8.0,7.5,0.0,No
+224,Other,Other,7.58,7.75,7.75,7.75,7.83,0.08,Yes
+364,Honduras,Caturra,7.67,7.67,7.5,7.67,7.67,0.1,Yes
+399,Brazil,Catuai,7.5,7.33,7.58,7.58,7.92,0.1,Yes
+383,Colombia,Caturra,7.58,7.58,7.67,7.58,7.67,0.12,Yes
+202,"Tanzania, United Republic Of",Other,7.83,7.75,7.75,7.67,7.75,0.12,Yes
+805,Colombia,Caturra,7.33,7.58,7.5,7.5,7.58,0.11,Yes
+693,Mexico,Typica,7.42,7.5,7.42,7.58,7.5,0.13,Yes
+638,Other,Typica,7.83,7.42,7.33,7.42,7.5,0.13,Yes
+783,"Tanzania, United Republic Of",Other,7.42,7.5,7.33,7.33,7.5,0.12,Yes
+656,Guatemala,Bourbon,7.5,7.33,7.5,7.67,7.5,0.1,Yes
+45,Brazil,Bourbon,8.33,8.0,8.0,7.75,8.0,0.11,Yes
+923,Mexico,Typica,7.33,7.17,7.42,7.5,7.5,0.13,Yes
+309,Mexico,Caturra,7.83,7.58,7.5,7.75,7.67,0.13,Yes
+1142,Mexico,Typica,7.17,7.0,7.25,7.5,7.0,0.12,No
+1203,Mexico,Typica,7.17,6.83,7.25,7.17,6.92,0.14,No
+732,Brazil,Other,7.58,7.25,7.58,7.42,7.5,0.11,Yes
+239,Other,Other,7.92,7.83,8.0,7.92,7.92,0.09,Yes
+1128,Mexico,Other,7.08,7.0,7.33,7.08,7.0,0.11,No
+1122,Other,Caturra,7.33,6.92,7.08,7.42,7.17,0.1,No
+1106,Other,Caturra,7.17,7.08,7.33,7.25,7.08,0.11,Yes
+1255,Mexico,Typica,7.33,6.67,7.0,6.92,6.92,0.15,No
+1307,Other,Typica,6.75,6.42,6.67,7.08,6.67,0.14,No
+865,Mexico,Typica,7.42,7.33,7.58,7.33,7.33,0.11,Yes
+131,Other,Other,8.08,7.75,7.83,7.58,7.67,0.1,Yes
+323,Guatemala,Bourbon,8.0,7.33,8.0,8.0,8.0,0.1,Yes
+1095,Honduras,Caturra,7.25,7.0,7.0,7.42,7.0,0.1,Yes
+860,Other,Caturra,7.0,7.33,7.5,7.5,7.33,0.12,Yes
+440,Brazil,Bourbon,7.67,7.5,7.58,7.67,7.58,0.11,Yes
+668,Mexico,Typica,7.92,7.33,7.58,7.25,7.42,0.11,Yes
+980,Costa Rica,Catuai,7.33,7.33,7.25,7.33,7.58,0.11,Yes
+853,Guatemala,Bourbon,7.83,7.33,7.33,7.67,7.83,0.11,Yes
+25,Brazil,Bourbon,8.5,8.0,8.0,8.0,8.0,0.12,Yes
+828,Mexico,Other,7.5,7.25,7.5,7.33,7.33,0.14,Yes
+825,Taiwan,Typica,7.5,7.42,7.25,7.5,7.5,0.11,Yes
+1077,Guatemala,Bourbon,7.5,7.0,7.67,7.17,7.0,0.12,Yes
+252,Colombia,Caturra,7.67,7.67,7.75,7.67,7.75,0.11,Yes
+280,Taiwan,Typica,7.67,7.67,7.75,7.42,7.75,0.0,Yes
+1127,Mexico,Typica,7.25,7.08,7.17,7.33,7.33,0.12,No
+336,Guatemala,Caturra,7.75,7.5,7.83,7.58,7.58,0.11,Yes
+436,Colombia,Caturra,7.67,7.5,7.5,7.58,7.67,0.11,Yes
+1094,Brazil,Catuai,7.17,7.42,7.08,7.0,7.0,0.11,Yes
+737,Brazil,Yellow Bourbon,7.42,7.5,7.08,7.5,7.42,0.0,Yes
+1014,Guatemala,Bourbon,7.67,7.33,7.58,7.67,7.5,0.1,Yes
+708,Brazil,Bourbon,7.5,7.42,7.5,7.42,7.5,0.11,Yes
+466,Mexico,Other,7.58,7.42,7.67,7.5,7.58,0.14,Yes
+589,Brazil,Yellow Bourbon,7.5,7.58,7.5,7.58,7.58,0.11,Yes
+936,Brazil,Catuai,7.33,7.5,7.33,6.83,7.42,0.11,Yes
+314,Brazil,Bourbon,7.67,7.5,7.67,7.67,7.5,0.11,Yes
+812,Brazil,Other,7.58,7.17,7.5,7.5,7.42,0.12,Yes
+177,Mexico,Other,7.75,7.75,7.67,7.83,7.67,0.12,Yes
+661,Mexico,Other,7.42,7.5,7.67,7.25,7.5,0.0,Yes
+581,Guatemala,Bourbon,7.5,7.42,7.58,7.67,7.5,0.1,Yes
+282,Brazil,Bourbon,7.67,7.58,7.5,7.83,8.17,0.0,Yes
+162,Colombia,Other,8.08,7.83,7.83,7.67,7.67,0.12,Yes
+1225,Mexico,Typica,7.58,7.0,7.17,7.33,7.0,0.14,No
+1001,Guatemala,Bourbon,7.42,7.17,7.5,7.25,7.17,0.09,Yes
+381,Other,Other,7.5,7.75,7.5,7.75,7.67,0.13,Yes
+1133,Mexico,Other,7.17,6.92,7.25,7.33,7.08,0.12,No
+367,Mexico,Bourbon,7.83,7.25,7.5,7.5,7.42,0.13,Yes
+1186,Guatemala,Bourbon,7.08,6.92,7.42,7.0,6.92,0.11,No
+1115,Taiwan,Typica,7.42,7.25,7.17,7.0,7.0,0.07,Yes
+69,Guatemala,Bourbon,8.0,7.67,8.33,7.83,8.0,0.11,Yes
+217,Other,Caturra,7.67,7.83,7.5,7.67,7.83,0.12,Yes
+468,Mexico,Typica,7.75,7.42,7.75,7.58,7.58,0.13,Yes
+917,Other,Other,7.67,6.92,7.5,7.5,7.17,0.12,Yes
+380,Other,Other,7.58,7.33,7.75,7.67,7.58,0.11,Yes
+1319,Other,Other,7.67,7.58,7.83,7.83,8.0,0.09,Yes
+896,Guatemala,Bourbon,7.42,7.08,7.5,7.42,7.33,0.12,Yes
+833,Guatemala,Bourbon,7.42,7.25,7.5,7.33,7.42,0.1,Yes
+1136,Mexico,Typica,7.33,7.0,7.42,7.17,7.17,0.12,No
+650,Mexico,Typica,7.67,7.58,7.75,7.67,6.83,0.12,Yes
+253,Other,Other,7.67,7.5,7.75,7.92,7.67,0.0,Yes
+2,Guatemala,Bourbon,8.42,8.42,8.42,8.33,8.42,0.0,Yes
+279,Brazil,Yellow Bourbon,7.25,7.42,8.0,7.75,7.83,0.0,Yes
+109,"Tanzania, United Republic Of",Other,8.0,7.83,7.92,7.75,7.75,0.12,Yes
+993,Mexico,Typica,7.25,7.33,7.33,7.17,7.33,0.13,Yes
+20,Other,Other,8.0,8.08,8.5,8.25,8.0,0.0,Yes
+797,"Tanzania, United Republic Of",Other,7.67,7.33,7.42,7.42,7.42,0.13,Yes
+903,Guatemala,Bourbon,7.42,7.17,7.58,7.42,7.5,0.12,Yes
+787,Mexico,Typica,7.42,7.5,7.33,7.42,7.42,0.13,Yes
+232,Colombia,Caturra,7.83,7.42,7.5,7.83,8.5,0.0,Yes
+627,Mexico,Typica,7.5,7.58,7.58,7.42,7.42,0.12,Yes
+830,Mexico,Bourbon,7.67,7.33,7.83,7.5,7.5,0.12,Yes
+710,Costa Rica,Catuai,7.75,7.5,7.5,7.33,7.58,0.0,Yes
+107,Colombia,Caturra,7.92,7.75,7.83,7.75,8.0,0.12,Yes
+342,Other,Other,7.67,7.42,7.75,7.75,7.67,0.12,Yes
+962,Taiwan,Typica,7.83,7.67,7.83,7.83,7.75,0.12,Yes
+101,Other,Other,7.75,7.75,8.08,8.0,7.75,0.0,Yes
+428,Colombia,Caturra,7.83,7.67,7.33,7.67,7.67,0.11,Yes
+920,Brazil,Yellow Bourbon,7.58,7.5,7.67,7.67,7.83,0.0,Yes
+1258,Mexico,Other,7.08,7.0,7.25,7.33,7.25,0.12,No
+1248,Guatemala,Bourbon,7.0,6.67,7.17,6.83,6.83,0.11,No
+564,Other,Other,7.25,7.5,7.42,7.75,7.42,0.11,Yes
+1172,Mexico,Caturra,7.25,6.92,7.25,7.58,7.08,0.12,No
+1165,Mexico,Typica,7.08,6.92,7.33,7.25,7.08,0.12,No
