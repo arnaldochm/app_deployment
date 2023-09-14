@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 import pandas as pd
 import numpy as np
 import pickle
+from myvalidation import data_validation
 
 
 app = Flask(__name__)
@@ -26,11 +27,15 @@ def predict(argument1,argument2,argument3,argument4,argument5,argument6,argument
 
     df_api = pd.DataFrame(data=pred_array, columns=['country_of_origin', 'variety', 'aroma', 'aftertaste', 'acidity', 'body', 'balance', 'moisture'])
 
+    if not data_validation(df_api):
+        return 'Could not processed the prediction'
+
     try:
         prediction = list(model.predict(df_api))
         return jsonify({'prediction':prediction})
     except:
         return 'Could not processed the prediction'
+
 
 
 if __name__ == '__main__':
